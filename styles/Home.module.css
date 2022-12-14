@@ -1,11 +1,12 @@
 .container {
-  min-height: 100vh;
-  padding: 0 0.5rem;
+  padding: 0 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+  height: 100vh;
+  background-color: aquamarine;
+ }
 
 .title a {
   color: #0070f3;
